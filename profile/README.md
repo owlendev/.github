@@ -1,7 +1,7 @@
 # Owlendev 🦉
 ### A clearer way to build software.
 
-Owlen is a software development company founded by Omar and Leen.
+Owlendev is a software development company founded by Omar and Leen.
 
 We design and build custom software, business platforms, and digital products that help businesses operate more efficiently and manage their own systems with confidence.
 
@@ -45,10 +45,10 @@ Our technology choices may evolve as our products and projects grow.
 - Grow through collaboration and continuous improvement.
 
 ## Meet the Founders
-**Omar & Leen** — Co-founders of Owlen.
+**Omar & Leen** — Co-founders of Owlendev.
 
 We are building software solutions for today's businesses while working toward a future of reusable digital products and SaaS platforms.
 
 ------
 
-**Owlen — A clearer way to build software.**
+**Owlendev — A clearer way to build software.**
